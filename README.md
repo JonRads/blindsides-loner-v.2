@@ -97,7 +97,8 @@ The first version of this pack was reuploaded by me ([JonRads]) after the [LONER
 
 ## Credits and Contributors  
 
-### [Blindside's Weapon Reanimation Pack [LONER]]  
+### [Blindside's Weapon Reanimation Pack [LONER]v.2]  
+- Blindxside  
 - JonRads  
 
 ### [Weapon Pack]  
