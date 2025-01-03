@@ -1,0 +1,70 @@
+######################################
+# Blindside's Weapon Pack [Loner] v2 #
+######################################
+
+The [LONER] v2 version includes 5 compatibility patches. All patches were originally created by their respective authors but adapted by me to support the Blindside's Pack [LONER] v2. Each patch has been thoroughly tested to ensure no errors. If you encounter any issues, please report them on my GitHub repository.
+
+GitHub Repository: https://github.com/JonRads/blindsides-loner-v.2.git
+
+Below is a list of patches and instructions on how to use them. Please read carefully, as all your questions should be answered here or in the `FAQ.txt` file.
+
+-------------------------------------------------------------------
+COMPATIBILITY PATCHES FOR BLINDSIDE'S WEAPON PACK [LONER] v2
+-------------------------------------------------------------------
+
+[1_0_Vanilla Weapons Stats]
+
+This patch, provided by the original author [Blindxside], has been included since the first version of the addon released in 2021. It restores damage, accuracy, recoil, and handling values to the Anomaly Vanilla defaults. Use this patch if you prefer the Vanilla weapon stats.
+
+Installation:
+1. Install the [LONER] pack;
+2. Copy the contents of the `1_0_Vanilla Weapons Stats` folder into the game directory after installing the [LONER] pack;
+3. Done.
+
+;----------------------
+
+[2_0_EFT Weapons Reposition]
+
+Updated by me, this patch was originally created by the authors listed in the [EFT Reposition] credits section. It adjusts weapon HUD positions to match the "Escape From Tarkov" style. Updates include adjustments for the AK-47 and AKM family.
+
+Installation:
+1. Install the [LONER] pack;
+2. Copy the contents of the `2_0_EFT Weapons Reposition - Main` folder into the game directory;
+3. Optional: Copy the contents of the `2_0_EFT Weapons Reposition - Anomaly Weapons Stats` folder to restore Anomaly Vanilla stats;
+4. Done.
+
+;----------------------
+
+[3_0_JSRS Patch (Requires the JSRS addon)]
+
+This patch ensures compatibility between the [LONER] v2 pack and the JSRS Sound Mod 4.0. It also fixes existing audio issues.
+
+Installation:
+1. Download and install the JSRS Sound Mod 4.0: [Link](https://www.moddb.com/mods/stalker-anomaly/addons/solarint-gunshot-overhaul);
+2. Install the JSRS Sound Mod 4.0;
+3. Install the [LONER] pack;
+4. Copy the contents of the `3_0_JSRS Patch` folder into the game directory;
+5. Done.
+
+;----------------------
+
+[3_1_JSRS Lite (Requires the JSRS addon)]
+
+This patch adds compatibility for the JSRS Sound Mod 4.0 Lite version. Updated by me to fix audio issues.
+
+Installation:
+1. Follow the JSRS Sound Mod 4.0 installation steps (see patch 3_0);
+2. Copy the contents of the `3_1_JSRS Lite` folder into the game directory;
+3. Done.
+
+;----------------------
+
+[4_0_Grok's Ballistic Overhaul Recoil (Requires the GBOR)]
+
+This patch ensures compatibility between the [LONER] v2 pack and Grok's Ballistic Overhaul Recoil.
+
+Installation:
+1. Download and install the Grok's Ballistic Overhaul Recoil: [Link](https://www.moddb.com/mods/stalker-anomaly/addons/100-groks-ballistics-overhaul-eft-like);
+2. Install the [LONER] pack;
+3. Copy the contents of the `4_0_Grok's Ballistic Overhaul Recoil` folder into the game directory;
+4. Done.

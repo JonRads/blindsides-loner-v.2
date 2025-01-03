@@ -1,0 +1,7 @@
+######################################
+# Blindside's Weapon Pack [Loner] v2 #
+######################################
+
+To report bugs, please visit the GitHub repository and open an issue in the [Issues] section.
+
+GitHub Repository: https://github.com/JonRads/blindsides-loner-v.2.git

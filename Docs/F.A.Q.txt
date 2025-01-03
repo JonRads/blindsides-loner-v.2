@@ -1,0 +1,20 @@
+######################################
+# Blindside's Weapon Pack [Loner] v2 #
+######################################
+
+FAQ:  
+
+1. What version does this addon support?
+    - It was developed for version 1.5.3 but might work on 1.5.2 as well.
+
+2. Is JSRS or DLTX required?
+    - DLTX is not required. JSRS is optional, but you must use the compatibility patches.
+
+3. Is it compatible with GAMMA or EFT?
+    - No, this addon is designed only for the vanilla version of Anomaly and supported addons with specific patches.
+
+4. Do I need the base addons for compatibility patches?
+    - Yes, some patches require the base addons. Check the `2_Addons (Patch)` folder for details.
+
+5. Should I install this addon before or after addons with patches?
+    - You can read How to Install Addons in the 3_Docs folder to address all your questions. Everything is documented there.
