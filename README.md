@@ -80,7 +80,7 @@ The first version of this pack was reuploaded by me ([JonRads]) after the [LONER
    - Yes, some patches require the base addons. Check the `2_Addons (Patch)` folder for details.  
 
 5. **Should I install this addon before or after addons with patches?**  
-   - Install this addon first. After that, install the addons requiring patches and then apply the patches.  
+   - You can read *How to Install Addons* in the `3_Docs` folder to address all your questions. Everything is documented there.  
 
 ---  
 
