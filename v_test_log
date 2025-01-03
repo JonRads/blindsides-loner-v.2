@@ -14,4 +14,9 @@ v_test:
 - update EFT Weapons Reposition [Vanilla Weapons Stats]
 - update JSRS Lite Patch
 - update weapons_sounds JSRS Lite Patch
+- ERROR: JSRS Patch and JSRS Lite Patch missing wpm_val reload sounds
+- ERROR: JSRS Patch and JSRS Lite Patch missing wpm_val fire shots
+- ERROR: AKM Hud 16x9/4x3 broken
+- ERROR: EFT Weapons Reposition patch: AK-47 aim position broken
 -----------------------------------------------------------------------------
+v_test DONE
